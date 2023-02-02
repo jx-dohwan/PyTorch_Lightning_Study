@@ -1,1 +1,1 @@
-# PyTorch_Lightning_Study
+# Python_object_oriented
